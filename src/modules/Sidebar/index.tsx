@@ -87,7 +87,7 @@ const Sidebar: FC<{
           target="_blank"
           rel="noreferrer"
         >
-          <i className="ml-2 ri-github-fill text-xl" />
+          <img src="https://gameapp.gov.bd/wp-content/uploads/2023/06/Untitled-design-e1687688563694.gif">
         </a>
       </div>
       <div className="p-2 flex items-center justify-between mb-4">
