@@ -83,7 +83,7 @@ const Sidebar: FC<{
       <div className="p-4 mt-2 flex items-baseline justify-between">
         <span className="text-3xl text-gradient font-[800]">AMAR AI</span>
         <a href="https://gameapp.gov.bd/" target="_blank" rel="noreferrer">
-          <img height="60px" src="https://gameapp.gov.bd/frontend/assets/images/sdmg.png" />
+          <img height="60%" src="https://gameapp.gov.bd/frontend/assets/images/sdmg.png" />
         </a>
       </div>
       <div className="p-2 flex items-center justify-between mb-4">
