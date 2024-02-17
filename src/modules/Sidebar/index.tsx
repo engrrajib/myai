@@ -83,7 +83,7 @@ const Sidebar: FC<{
       <div className="p-4 mt-2 flex items-baseline justify-between">
         <span className="text-3xl text-gradient font-[800]">AMAR AI</span>
         <a
-          href="https://github.com/engrrajib/myai"
+          href="https://gameapp.gov.bd"
           target="_blank"
           rel="noreferrer"
         >
